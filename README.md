@@ -1,3 +1,16 @@
+
+To run test cases:
+npm test -- --watch
+
+To run the app: 
+npx ts-node src/app.ts
+
+Check app running on : http://localhost:3000/api/movies/2019
+
+
+
+
+
 # Take Home Coding
 This project is a take home asssessment for NodeJS Coding.
 
